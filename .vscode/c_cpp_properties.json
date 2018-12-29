@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/abdullah/external/of_v0.10.1_linux64gcc6_release/libs/openFrameworks",
+                "/home/abdullah/external/of_v0.10.1_linux64gcc6_release/libs/openFrameworks/utils"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}
